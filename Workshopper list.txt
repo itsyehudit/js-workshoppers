@@ -1,3 +1,4 @@
 List of currently completed workshoppers:
 
 - javascripting
+- scope-chains-closures
