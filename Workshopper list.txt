@@ -3,4 +3,4 @@ List of currently completed workshoppers:
 - javascripting
 - scope-chains-closures
 - regex adventure
-- planet proto (9/10)
+- planet proto
