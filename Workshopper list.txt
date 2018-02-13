@@ -4,3 +4,4 @@ List of currently completed workshoppers:
 - scope-chains-closures
 - regex adventure
 - planet proto
+- count to 6
