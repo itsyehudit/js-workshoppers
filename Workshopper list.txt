@@ -5,3 +5,4 @@ List of currently completed workshoppers:
 - regex adventure
 - planet proto
 - count to 6
+- promise it won't hurt (6/13)
